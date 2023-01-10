@@ -34,7 +34,7 @@ HTML,CSS
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]( https://ashnaali3255.github.io/Microverse/)
+- [Live Demo Link](https://ashnaali3255.github.io/Hello-Micro/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -58,7 +58,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 Example commands:
 
-git clone https://github.com/Ashnaali3255/Microverse.git
+git clone https://github.com/Ashnaali3255/Hello-Micro.git
 
 3. Install
 
