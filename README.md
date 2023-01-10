@@ -34,7 +34,7 @@ HTML,CSS
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]( https://ashnaali3255.github.io/Microverse/)
+- [Live Demo Link](https://ashnaali3255.github.io/Hello-Micro/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
