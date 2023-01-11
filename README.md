@@ -21,7 +21,8 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
-Simple Web Page to display "Hello Microverse!"
+Simple Web Page to display "Hello Microverse!" Add linters, styling in CSS and code in index.html
+Print text with beautiful color.
 
 ## 🛠 Built With <a name="built-with">
 #Tech Stack
